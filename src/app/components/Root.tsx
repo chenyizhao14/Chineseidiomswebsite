@@ -2,7 +2,7 @@ import { Outlet } from "react-router";
 
 export function Root() {
   return (
-    <div className="min-h-screen bg-[#f5ebe0]">
+    <div className="min-h-screen bg-[#ffffb3]">
       <Outlet />
     </div>
   );

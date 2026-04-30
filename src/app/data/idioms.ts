@@ -122,14 +122,9 @@ export const idioms: Idiom[] = [
 export const categories = [
   "All",
   "Art",
-  "Human Nature",
   "Philosophy",
-  "Perseverance",
-  "Logic",
   "Wisdom",
-  "Communication",
-  "Perspective",
-  "Sincerity"
+  "Perseverance"
 ];
 
 export const categoryMap: Record<string, string> = {
